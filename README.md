@@ -8,4 +8,4 @@ Socket.IO is a realtime library that enables low latency, bi-directional communi
 # Preview of the Application - 
 When we hit the 'Go Live' button from VS code, a new tab open on 'http://127.0.0.1:5500/'. 
 According to the code, it first ask for the User Name - 
-![FirstImage](https://drive.google.com/file/d/1-tk4Cr7YcDEoVxi4ov0RKPibnJkzkglb/view?usp=drive_link)
+<img width="1440" alt="Screenshot 2023-07-08 at 12 24 54 AM" src="https://github.com/shaswataddas/ChatMe-Node-Application/assets/60272712/6d06c533-3491-48ca-82ee-7907c7d16d48">

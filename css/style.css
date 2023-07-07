@@ -1,0 +1,72 @@
+.logo{
+    display: block;
+    margin:auto; 
+}
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(255,255,255),rgb(77, 97, 162));
+}
+
+.container{
+    max-width: 955px;
+    border: 2px solid black;
+    margin: auto;
+    height: 60vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+h1{
+    margin-top: 12px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.message{
+    background-image: linear-gradient(rgb(152, 238, 113), rgb(93, 213, 139));
+    width: 24%;
+    padding: 10px;
+    margin: 5px 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+.middle{
+    clear: both;
+    text-align: center;
+}
+
+#messageInp{
+    width: 91%;
+    border: 1px solid black;
+    border-radius: 6px;
+    height: 32px;
+}
+
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 34px;
+    width: 7%;
+}
+
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 985px;
+    width: 100%;
+}

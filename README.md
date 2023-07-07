@@ -8,4 +8,4 @@ Socket.IO is a realtime library that enables low latency, bi-directional communi
 # Preview of the Application - 
 When we hit the 'Go Live' button from VS code, a new tab open on 'http://127.0.0.1:5500/'. 
 According to the code, it first ask for the User Name - 
-![FirstImage](https://drive.google.com/drive/folders/1uBwls_XH7VuxU3ImmJjRrX9wlMYrINy-)https://drive.google.com/drive/folders/1uBwls_XH7VuxU3ImmJjRrX9wlMYrINy-)
+![FirstImage](https://drive.google.com/file/d/1-tk4Cr7YcDEoVxi4ov0RKPibnJkzkglb/view?usp=drive_link)
